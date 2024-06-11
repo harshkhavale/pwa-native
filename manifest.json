@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "my-pwa-app",
+  "short_name": "my-pwa-app",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
